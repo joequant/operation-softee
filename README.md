@@ -69,12 +69,22 @@ https://en.wikipedia.org/wiki/Mobile_Softee
 
 https://en.wikipedia.org/wiki/Dai_pai_dong
 
+The stated purpose of these licenses were santitation and hygiene.
+However, once you have licenses you have interests that will be in
+favor of licensing regardless of underlying public policy.  So when
+the Hong Kong government tried to allow for food trucks, this effort
+was killed by mall owners.  Also the licensees themselves turn out to
+be against new entrants and will lobby against relaxing licenses.
+
 ----- Are you against regulation?
 
 I am for regulation but I am against licensing.  Part of the reason I
 am so very much against licensing is that I do a lot of business with
 India and Africa and I have seen the absolute devastation that
 business licenses have done to an economy.
+
+In the case of Hong Kong, licensing is particularly bad because Hong
+Kong residents can get products from off shore companies.
 
 ---- What do the Hong Kong regulators think about this?
 
@@ -92,4 +102,17 @@ to overregulate the industry.  My big worry is that you will form a
 cartel of licensees that will capture the regulators and make them
 make decisions that only favor large existing institutions.
 
+--- What is the status of the bill?
+
+As of 3 November the bill is in the Bills Committee going through
+final vetting.  While I would hope that Legco would just reject the
+bill, there appears to be too much bureaucratic inertia for that to
+happen.
+
+Also I put off announcing operation softee for some time because I was
+worried that if I annouced it too early, that Legco would insert
+countermeasures against the project.  At this point, the bill is too
+far along for people to insert countermeasures, and the administration
+has in fact rejected early efforts to make it harder to get
+provisional licenses.
 
